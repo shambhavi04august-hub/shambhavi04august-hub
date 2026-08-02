@@ -15,4 +15,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=shambhavi04august-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📄 Resume
+
+[![Shambhavi_Tripathi_Resume.pdf](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/USERNAME/USERNAME/blob/main/Shambhavi_Tripathi_Resume.pdf)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
