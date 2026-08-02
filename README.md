@@ -17,7 +17,7 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
+[![Shambhavi_Tripathi_Resume.pdf](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
 
 ## 📫 Connect With Me
 
