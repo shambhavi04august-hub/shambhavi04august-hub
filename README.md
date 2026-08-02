@@ -24,6 +24,6 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 📧 **Email:** shambhavi04august@gmail.com
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
-- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi Tripathi Resume Two Pages.pdf)
+- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/Shambhavi Tripathi Resume Two Pages.pdf)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
