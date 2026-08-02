@@ -19,4 +19,10 @@
 
 [![Shambhavi_Tripathi_Resume.pdf](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/USERNAME/USERNAME/blob/main/Shambhavi_Tripathi_Resume.pdf)
 
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/shambhavi-tripathi-94bb9937a
+- 📧 Email: shambhavi04august@gmail.com
+- 📄 Resume: [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
