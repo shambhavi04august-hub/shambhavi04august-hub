@@ -17,13 +17,13 @@
 
 ## 📄 Resume
 
-[![Shambhavi Tripathi Resume Two Pages.pdf](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 📧 **Email:** shambhavi04august@gmail.com
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
-- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi Tripathi Resume Two Pages.pdf)
+- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
