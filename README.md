@@ -28,6 +28,6 @@
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
 - 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shambhavi04august-hub.github.io/shambhavi-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shambhavi04august-hub.github.io/shambhavi-portfolio/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
