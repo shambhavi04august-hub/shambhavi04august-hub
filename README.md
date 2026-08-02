@@ -23,6 +23,7 @@
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 📧 **Email:** shambhavi04august@gmail.com
+- 📱 **Phone:** +91 6393307393
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
 - 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
