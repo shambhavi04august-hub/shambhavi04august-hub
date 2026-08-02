@@ -19,12 +19,15 @@
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
+- 🌍 **Portfolio:** https://shambhavi04august-hub.github.io/shambhavi-portfolio/
 - 📧 **Email:** shambhavi04august@gmail.com
 - 📱 **Phone:** +91 6393307393
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
 - 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shambhavi04august-hub.github.io/shambhavi-portfolio/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
