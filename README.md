@@ -17,16 +17,16 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-DOCX-blue?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi%20Tripathi%20Resume%202%20Pages.docx)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 🌍 **Portfolio:** https://shambhavi04august-hub.github.io/shambhavi-portfolio/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 📧 **Email:** shambhavi04august@gmail.com
 - 📱 **Phone:** +91 6393307393
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
-- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi%20Tripathi%20Resume%202%20Pages.docx)
+- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 ## 🌍 Portfolio
 
